@@ -1,0 +1,6 @@
+.vscode/
+*.txt
+*.c
+*.o
+gen.cpp
+hash
